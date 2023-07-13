@@ -1,0 +1,12 @@
+/home/st/rust/rust/hello/target/debug/deps/regex_automata-c2c7c300c760c5e7.rmeta: /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/lib.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/byteorder.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/classes.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/dense.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/dfa.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/regex.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/sparse.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/state_id.rs
+
+/home/st/rust/rust/hello/target/debug/deps/regex_automata-c2c7c300c760c5e7.d: /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/lib.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/byteorder.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/classes.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/dense.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/dfa.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/regex.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/sparse.rs /home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/state_id.rs
+
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/lib.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/byteorder.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/classes.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/dense.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/dfa.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/regex.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/sparse.rs:
+/home/st/.cargo/registry/src/index.crates.io-6f17d22bba15001f/regex-automata-0.1.10/src/state_id.rs:
