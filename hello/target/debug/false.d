@@ -1,1 +1,1 @@
-/Users/st/rust/rust/hello/target/debug/false: /Users/st/rust/rust/hello/src/bin/false.rs
+/home/st/rust/rust/hello/target/debug/false: /home/st/rust/rust/hello/src/bin/false.rs
