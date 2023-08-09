@@ -1,15 +1,9 @@
 fn main() {
-    let a = 10;
-    let b: i32 = 20;
-    let c = 30i32;
-    let d = 40_i32;
-
-    let e = add(add(a, b), add(c, d));
-
-    println!("((a+b) + (c+d)) = {}", e);
+    let (a, mut b): (bool, bool) = (true, false);
+    println!("a = {:?}, b = {}", a, b);
+    b = true;
+    assert_eq!(a, b);
 }
 
-fn add(i: i32, j: i32) -> i32 {
-   i + j
-}
+
 
