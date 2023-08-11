@@ -1,3 +1,4 @@
+use std::fmt::Debug;
 
 fn main() {
     let x = '中'; 
@@ -9,9 +10,30 @@ fn main() {
     };
     println!("y is {}", y);
 
-    assert_ne!((), ret_unit_type())
+    assert_eq!(ret_unit_type(), ());
 
+     report(78);
+
+    let x = 80;
+    println!("plus_or_minus is {}", plus_or_minus(x));
+    let x = -80;
+    println!("plus_or_minus is {}", plus_or_minus(x));
+ 
 }
+
+
+fn plus_or_minus(x: i32)->i32{
+    if x>5 {
+        return x-5
+    }
+    x+5
+}
+
+fn report<T:Debug>(item: T){
+    println!("{:?}", item);
+}
+
+
 
 fn ret_unit_type(){
     let x = 1;
