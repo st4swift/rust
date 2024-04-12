@@ -11,3 +11,6 @@ The Rust community’s crate registry
 
 Rust libraries and applications. Lightweight, opinionated, curated, unofficial alternative to crates.io.
 
+
+## [Docs.rs](https://docs.rs)
+
